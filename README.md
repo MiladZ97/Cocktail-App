@@ -1,4 +1,4 @@
-Cocktail App
+**Cocktail App**
 The Cocktail App is a simple web application that allows users to search for cocktails, view their details, and add them to a shopping list.
 
 **Features**
